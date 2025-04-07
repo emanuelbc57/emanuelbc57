@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @emanuelbc57 (Emanuel Carvalho)
-- 👀 I’m interested in data science, programming and data science aplied to health science
-- 🌱 I’m currently learning basics of programming and data science
+- 👀 I’m interested in data science, data analytics and big data analytics
 - 📫 How to reach me:
       e-mail: emanuelbc57@gmail.com
       Kaggle profile: https://www.kaggle.com/emanuelbdc
-      Instagram profile: @emanuelbdc
+      LinkedIn profile: https://www.linkedin.com/in/emanuel-b-carvalho/
 - 😄 Pronouns: he/him
 
 <!---
